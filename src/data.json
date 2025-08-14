@@ -1,0 +1,14 @@
+{
+  "users": {
+    "u1": { "email": "alice@example.com", "password": "pass123" },
+    "u2": { "email": "bob@example.com", "password": "password" },
+    "u3": { "email": "charlie@example.com", "password": "charlie123" },
+    "u4": { "email": "diana@example.com", "password": "diana321" },
+    "u5": { "email": "eve@example.com", "password": "evepass" },
+    "u6": { "email": "frank@example.com", "password": "frank2023" },
+    "u7": { "email": "grace@example.com", "password": "grace999" },
+    "u8": { "email": "henry@example.com", "password": "henry777" },
+    "u9": { "email": "ivy@example.com", "password": "ivy654" },
+    "u10": { "email": "jack@example.com", "password": "jackpass" }
+  }
+}
