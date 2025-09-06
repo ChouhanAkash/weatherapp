@@ -8,7 +8,7 @@ Displays current weather information for any city in a clean UI.
 ##  Live Demo
 
 Check out the live version here: [Live Demo](#)  
-*(Add your live deployment link e.g., Vercel/Netlify)*
+*(https://checkweat.netlify.app/)*
 
 ---
 
